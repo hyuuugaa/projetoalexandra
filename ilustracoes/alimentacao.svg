@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-labelledby="title">
+<title id="title">Ilustração: alimentacao</title>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#ffe3d7"/><stop offset="1" stop-color="#fff2c7"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="9" stdDeviation="10" flood-color="#8b847c" flood-opacity=".10"/></filter>
+</defs>
+<rect width="960" height="640" rx="42" fill="url(#bg)"/>
+<path d="M0 484Q197 421 364 495T960 492V640H0Z" fill="#fff" opacity=".34"/>
+<circle cx="827" cy="117" r="68" fill="#fff" opacity=".34"/>
+<circle cx="98" cy="140" r="20" fill="#fff" opacity=".50"/>
+<circle cx="152" cy="93" r="7" fill="#fff" opacity=".68"/>
+<circle cx="755" cy="53" r="11" fill="#fff" opacity=".56"/>
+<ellipse cx="480" cy="561" rx="310" ry="24" fill="#626b6d" opacity=".075"/>
+
+<path transform="translate(157 126) scale(1.1)" d="M0-23L6-6 24 0 6 6 0 23-6 6-24 0-6-6Z" fill="#ffcb7b"/>
+ <rect x="129" y="436" width="696" height="38" rx="19" fill="#e4a789"/><rect x="186" y="468" width="31" height="93" rx="15" fill="#ca9b82"/><rect x="738" y="468" width="31" height="93" rx="15" fill="#ca9b82"/>
+ <g transform="translate(376 177) scale(0.72)" filter="url(#shadow)">
+  <path d="M-7 229Q-9 273-15 298M65 228Q68 275 81 295" stroke="#749eb2" stroke-width="43" stroke-linecap="round" fill="none"/>
+  <ellipse cx="-19" cy="301" rx="30" ry="14" fill="#fff"/><ellipse cx="80" cy="299" rx="30" ry="14" fill="#fff"/>
+  <path d="M-9 115Q25 95 78 122L102 235Q27 258-25 237Z" fill="#9dc9af"/>
+  <path d="M-10 130Q-58 155-75 193" stroke="#eab68b" stroke-width="24" stroke-linecap="round" fill="none"/>
+  <path d="M99 135 Q159 158 161 197" fill="none" stroke="#eab68b" stroke-width="26" stroke-linecap="round"/>
+  <rect x="19" y="99" width="30" height="36" rx="14" fill="#eab68b"/>
+  <circle cx="33" cy="57" r="66" fill="#eab68b"/>
+  <path d="M-33 53Q-45-11 11-11Q87-27 96 48Q60 18 27 17Q-3 49-33 53Z" fill="#493a34"/>
+  <circle cx="11" cy="60" r="4" fill="#5a4943"/><circle cx="57" cy="60" r="4" fill="#5a4943"/>
+  <path d="M19 80Q34 94 51 79" fill="none" stroke="#aa695f" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="-1" cy="75" r="9" fill="#ee988f" opacity=".48"/><circle cx="69" cy="75" r="9" fill="#ee988f" opacity=".48"/>
+ </g>
+ <ellipse cx="594" cy="419" rx="114" ry="22" fill="#d39f83" opacity=".35"/><ellipse cx="594" cy="394" rx="114" ry="41" fill="#fffdf0" stroke="#f6d4bd" stroke-width="12"/>
+ <circle cx="567" cy="388" r="23" fill="#e69b75"/><circle cx="613" cy="396" r="20" fill="#9cbe81"/><path d="M543 385Q552 359 570 365" stroke="#78a16a" stroke-width="5" fill="none"/>
+ <rect x="740" y="324" width="54" height="86" rx="11" fill="#95c4d9"/><path d="M754 335V314H783" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+</svg>

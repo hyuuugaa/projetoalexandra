@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-labelledby="title">
+<title id="title">Ilustração: descanso</title>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e6e1f5"/><stop offset="1" stop-color="#d8ebf1"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="9" stdDeviation="10" flood-color="#8b847c" flood-opacity=".10"/></filter>
+</defs>
+<rect width="960" height="640" rx="42" fill="url(#bg)"/>
+<path d="M0 484Q197 421 364 495T960 492V640H0Z" fill="#fff" opacity=".34"/>
+<circle cx="827" cy="117" r="68" fill="#fff" opacity=".34"/>
+<circle cx="98" cy="140" r="20" fill="#fff" opacity=".50"/>
+<circle cx="152" cy="93" r="7" fill="#fff" opacity=".68"/>
+<circle cx="755" cy="53" r="11" fill="#fff" opacity=".56"/>
+<ellipse cx="480" cy="561" rx="310" ry="24" fill="#626b6d" opacity=".075"/>
+
+<path d="M200 144Q480 64 760 146V465H200Z" fill="#f3f1ff" opacity=".48"/>
+ <rect x="211" y="349" width="568" height="161" rx="69" fill="#b6c9e5"/><rect x="243" y="369" width="503" height="123" rx="59" fill="#d5e1f4"/>
+ <ellipse cx="392" cy="407" rx="109" ry="56" fill="#fffaf5"/>
+ <circle cx="400" cy="370" r="68" fill="#edbe9e"/><path d="M339 368Q338 298 400 298Q452 299 468 351Q437 319 406 335Q371 358 339 368Z" fill="#514540"/>
+ <path d="M383 382Q394 389 403 381M425 382Q435 389 444 381" stroke="#685750" stroke-width="4" fill="none" stroke-linecap="round"/>
+ <path d="M416 403Q423 409 432 402" stroke="#b27875" stroke-width="4" fill="none"/>
+ <path d="M422 420Q569 355 711 415V475H377Q367 441 422 420Z" fill="#97bfb7"/>
+ <path transform="translate(244 160) scale(1.25)" d="M0-23L6-6 24 0 6 6 0 23-6 6-24 0-6-6Z" fill="#fff"/><path transform="translate(695 198) scale(1.15)" d="M0-23L6-6 24 0 6 6 0 23-6 6-24 0-6-6Z" fill="#fff"/><path transform="translate(591 107) scale(0.85)" d="M0-23L6-6 24 0 6 6 0 23-6 6-24 0-6-6Z" fill="#b9a7d1"/>
+ <path d="M766 65Q722 66 708 108Q698 144 743 162Q690 174 665 133Q634 81 691 47Q722 27 766 65Z" fill="#f6e1ae"/>
+</svg>

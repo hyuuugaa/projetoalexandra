@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-labelledby="title">
+<title id="title">Ilustração: movimento</title>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#d2ebfa"/><stop offset="1" stop-color="#f8e7d2"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="9" stdDeviation="10" flood-color="#8b847c" flood-opacity=".10"/></filter>
+</defs>
+<rect width="960" height="640" rx="42" fill="url(#bg)"/>
+<path d="M0 484Q197 421 364 495T960 492V640H0Z" fill="#fff" opacity=".34"/>
+<circle cx="827" cy="117" r="68" fill="#fff" opacity=".34"/>
+<circle cx="98" cy="140" r="20" fill="#fff" opacity=".50"/>
+<circle cx="152" cy="93" r="7" fill="#fff" opacity=".68"/>
+<circle cx="755" cy="53" r="11" fill="#fff" opacity=".56"/>
+<ellipse cx="480" cy="561" rx="310" ry="24" fill="#626b6d" opacity=".075"/>
+
+<path d="M88 478Q190 324 290 478" stroke="#e6a68f" stroke-width="49" fill="none" stroke-linecap="round"/><path d="M112 484Q190 370 265 484" stroke="#fff7e4" stroke-width="20" fill="none"/>
+ <g transform="translate(379 189) scale(0.93)" filter="url(#shadow)">
+  <path d="M-7 229Q-9 273-15 298M65 228Q68 275 81 295" stroke="#96aeca" stroke-width="43" stroke-linecap="round" fill="none"/>
+  <ellipse cx="-19" cy="301" rx="30" ry="14" fill="#fff"/><ellipse cx="80" cy="299" rx="30" ry="14" fill="#fff"/>
+  <path d="M-9 115Q25 95 78 122L102 235Q27 258-25 237Z" fill="#fac48c"/>
+  <path d="M-10 130Q-58 155-75 193" stroke="#e8b48b" stroke-width="24" stroke-linecap="round" fill="none"/>
+  <path d="M98 130 Q151 107 167 67" fill="none" stroke="#e8b48b" stroke-width="26" stroke-linecap="round"/>
+  <rect x="19" y="99" width="30" height="36" rx="14" fill="#e8b48b"/>
+  <circle cx="33" cy="57" r="66" fill="#e8b48b"/>
+  <path d="M-33 53Q-45-11 11-11Q87-27 96 48Q60 18 27 17Q-3 49-33 53Z" fill="#483833"/>
+  <circle cx="11" cy="60" r="4" fill="#5a4943"/><circle cx="57" cy="60" r="4" fill="#5a4943"/>
+  <path d="M19 80Q34 94 51 79" fill="none" stroke="#aa695f" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="-1" cy="75" r="9" fill="#ee988f" opacity=".48"/><circle cx="69" cy="75" r="9" fill="#ee988f" opacity=".48"/>
+ </g>
+ <circle cx="775" cy="443" r="73" fill="#f1afab"/><path d="M718 455Q773 404 822 463M772 372Q736 443 773 514" fill="none" stroke="#f9ddc8" stroke-width="7"/>
+ <circle cx="236" cy="151" r="31" fill="#ffd58c"/><path d="M230 115L238 90M189 139L165 129M273 147L304 139" stroke="#f6b961" stroke-width="8" stroke-linecap="round"/><path transform="translate(745 155) scale(1)" d="M0-23L6-6 24 0 6 6 0 23-6 6-24 0-6-6Z" fill="#fff"/>
+</svg>
